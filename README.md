@@ -1,7 +1,4 @@
-Hi there 👋
-
-<!--
-**almeidas-tatiane/almeidas-tatiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Tatiane da Silva Almeida
 
 I'm Test Analyst passionate about Software Quality
 
@@ -10,4 +7,4 @@ I'm Test Analyst passionate about Software Quality
 - 👯 I’m looking to collaborate on Performance Testing with JMeter.
 - 📫 How to reach me: https://www.linkedin.com/in/tatianealmeida/
 - ⚡ Fun fact: In my free time I like to watch movies at Netflix, travel and study new Software Testing knwoledges, I started my study in this area in 2009 at @Iterasys and never stop, every year I find a way to continuous my improvement with new trainings and new test certifications.
--->
+
