@@ -2,7 +2,7 @@
 
 I'm Test Analyst passionate about Software Quality
 
-- 🔭 I’m currently working at IBM as Test Analyst in an international project in the telecom industry. Using technologies as: HP ALM, CA Agile Central, SoapUI, SQL and Unix. I'm also CTFL; CTAL-TM; CTAL-TA; TMAP Next and Itil Certified.
+- 🔭 I’m currently working at IBM as Test Analyst in an international project in the telecom industry. Using technologies as: HP ALM, CA Agile Central, SoapUI, SQL and Unix. I'm also CTFL; CTAL-TM; CTAL-TA; TMAP Next and ITIL certified.
 - 🌱 I’m currently learning Selenium WebDriver, Java, Junit, PageObjects, Cucumber and JMeter. Willing to apply these knwoledges very soon in a new project.
 - 👯 I’m looking to collaborate on Performance Testing with JMeter.
 - 📫 How to reach me: https://www.linkedin.com/in/tatianealmeida/
