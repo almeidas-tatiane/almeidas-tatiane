@@ -1,6 +1,6 @@
 ### Hi there, I'm Tatiane da Silva Almeida
 
-I'm Test Analyst passionate about Software Quality
+I'm Test Analyst passionate about Quality Assurance
 
 - 🔭 I’m currently working at IBM as Test Analyst in an international project in the telecom industry. Using technologies as: HP ALM, CA Agile Central, SoapUI, Postman, SQL and Unix. I'm also CTFL; CTAL-TM; CTAL-TA; TMAP Next and ITIL certified.
 - 🌱 I’m currently learning Selenium WebDriver, Java, Junit, PageObjects, Cucumber and JMeter. Willing to apply these knwoledges very soon in a new project.
