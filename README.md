@@ -2,7 +2,7 @@
 
 I'm Test Analyst passionate about Quality Assurance
 
-- 🔭 I’m currently working at IBM as Test Performance Analyst. I've worked with technologies like: HP ALM, CA Agile Central, SoapUI, Postman, SQL; Unix; JMeter. I'm also CTFL; CTAL-TM; CTAL-TA; TMAP Next and ITIL certified.
+- 🔭 I’m currently working at HypeFlame as Test Performance Engineer. I've worked with technologies like: HP ALM, CA Agile Central, SoapUI, Postman, SQL; Unix; JMeter; Gatling. I'm also CTFL; CTAL-TM; CTAL-TA; TMAP Next and ITIL certified.
 - 🌱 I’m currently learning Selenium WebDriver, Java, Junit, PageObjects, Cucumber; and Robot Framework. Willing to apply these knwoledges very soon in a new project.
 - 👯 I’m looking to collaborate on Performance Testing with JMeter and Functional Automation with Java or Robot Framework
 - 📫 How to reach me: https://www.linkedin.com/in/tatianealmeida/
