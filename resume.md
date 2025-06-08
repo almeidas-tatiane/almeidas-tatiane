@@ -26,7 +26,7 @@
 - **Cloud & DevOps**: AWS, OpenShift, GitHub Actions, Jenkins  
 - **Automation & API Testing**: Postman, SOAP UI, Groovy  
 - **Databases & Logs**: SQL, ElasticSearch  
-- **Version Control & Management**: Git, Jira, Testlink, HP ALM  
+- **Version Control & Management**: Git, Jira, Testlink, HP ALM , Confluence 
 - **Operating Systems**: Windows, Linux, Unix  
 
 ---
@@ -49,8 +49,7 @@
 **IBM** – Remote | *Apr 2021 – Sep 2021*  
 - Designed performance scenarios based on real-world usage.  
 - Built parameterized tests with JMeter and BlazeMeter.  
-- Integrated scripts into CI/CD pipelines on OpenShift.  
-- Monitored system usage and flagged architectural limitations.  
+- Monitored system usage and flagged architectural limitations on OpenShift.  
 
 ---
 
@@ -59,7 +58,27 @@
 - Sole QA for a US telecom client’s provisioning systems.  
 - Created and executed test cases and managed defects lifecycle.  
 - Automated regression tests and validated APIs (Postman, SOAP UI).  
-- Supported T-Mobile/Sprint merger with provisioning impact analysis.  
+- Supported T-Mobile/Sprint merger with provisioning impact analysis.
+
+### Production Support Specialist  
+**IBM** – Remote  | *Mar 2009 – Sep 2009*  
+- Analyzed issues raised by first-level support teams in stores.  
+- Investigated and resolved data issues or escalated them to development teams.  
+- Enhanced SQL and Unix proficiency.  
+
+### Software Test Teacher (Freelancer)  
+**Iterasys** – Campinas, SP  | *Feb 2011 – Dec 2011*  
+- Delivered lessons on software testing principles.  
+- Taught students how to create quality test plans and test cases.  
+
+### Computer Science Teacher  
+**Municipality of Arujá** – Arujá, SP  | *Aug 2002 – Mar 2009*  
+- Taught Microsoft tools (Windows 98/XP, Office 2000/XP/2007).  
+- Provided education to at-risk teenagers and supported job readiness.  
+
+### English Teacher (Freelancer)  
+**CNA** – Arujá, SP  | *Sep 2006 – Dec 2006*  
+- Taught basic English in an accelerated course format. 
 
 ---
 
@@ -76,7 +95,17 @@ Universidade de Mogi das Cruzes – Brazil *(2000 – 2003)*
 - ✅ ISTQB Certified Tester – Performance Testing *(2023)*  
 - ✅ ISTQB CTFL / CTAL-TA / CTAL-TM *(2011–2016)*  
 - ✅ EXIN ITIL Foundation *(2008)*  
-- ✅ EXIN TMAP Next *(2014)*  
+- ✅ EXIN TMAP Next *(2014)*
+
+---
+## 🎓 Training & Events
+
+- Linux RedHat Administration, Universidade de Mogi das Cruzes (2005)  
+- Brateste Conference (2009)  
+- Testathon – Facebook event in São Paulo (2017)  
+- Software Testing Formation – Iterasys (2009, updated in 2020)  
+- AWS Training – The Cloud BootCamp (2023)  
+- Performance 360 Mentoring (2025)  
 
 ---
 
