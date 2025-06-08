@@ -97,7 +97,7 @@
 - Taught students how to create quality test plans and test cases.  
 
 ### Computer Science Teacher  
-**Municipality of Arujá** – Arujá, SP  | *Aug 2002 – Mar 2009*  
+**Arujá's City Hall** – Arujá, SP  | *Aug 2002 – Mar 2009*  
 - Taught Microsoft tools (Windows 98/XP, Office 2000/XP/2007).  
 - Provided education to at-risk teenagers and supported job readiness.  
 
