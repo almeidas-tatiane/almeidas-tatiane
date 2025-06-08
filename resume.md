@@ -35,7 +35,8 @@
 
 ### **Performance Test Engineer**  
 **Agi** – Remote | *Oct 2021 – Jun 2023*  
-- Designed and implemented end-to-end performance testing processes.  
+- Designed and implemented performance testing processes.
+- Implemented end to end and API scripts.
 - Led test planning and participated in system architecture discussions.  
 - Introduced and configured Dynatrace for APM monitoring.  
 - Developed load, stress, and spike tests using JMeter and Gatling.  
@@ -55,9 +56,10 @@
 
 ### **Functional Test Analyst**  
 **IBM** – Remote | *Jan 2010 – Mar 2021*  
-- Sole QA for a US telecom client’s provisioning systems.  
+- Sole QA for a US telecom client’s provisioning systems.
+- Interview and built a global team (Philiphines, USA and Brazil). 
 - Created and executed test cases and managed defects lifecycle.  
-- Automated regression tests and validated APIs (Postman, SOAP UI).  
+- Automated regression tests and validated APIs (Postman, SOAP UI, Groovy).  
 - Supported T-Mobile/Sprint merger with provisioning impact analysis.
 
 ### Production Support Specialist  
