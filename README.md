@@ -18,7 +18,7 @@ I'm **Tatiane**, a passionate Quality Assurance professional with over **11 year
 
 🔭 **Currently open to new challenges** as a Performance Test Engineer.  
 🌱 Learning K6 and exploring CI/CD integrations for performance pipelines.  
-📈 Passionate about observability, root cause analysis, and performance-first culture.
+📈 Passionate about quality, observability, root cause analysis, and performance-first culture.
 
 ---
 
