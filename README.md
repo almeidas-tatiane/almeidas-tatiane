@@ -4,7 +4,7 @@
 
 📍 Campinas, Brazil  
 💬 English & Portuguese  
-📄 [Resume](https://github.com/almeidas-tatiane/almeidas-tatiane/main/resume.md)
+📄 [Resume]([https://github.com/almeidas-tatiane/almeidas-tatiane/main/resume.md](https://github.com/almeidas-tatiane/almeidas-tatiane/blob/master/resume.md))
 🧪 [Explore my performance test projects](https://github.com/almeidas-tatiane?tab=repositories)
 
 ---
