@@ -41,7 +41,7 @@
 -	Conducted meetings with cross-functional teams to understand project scope and acceptance criteria
 -	Selected performance scenarios based on realistic user behaviors in web/API applications
 -	Recorded scenarios using Blazemeter extension or Fiddler
--	Created various types of performance tests in JMeter, including load, stress, and spike tests
+-	Created various types of performance tests in JMeter and Gatling, including load, stress, and spike tests
 -	Developed scripts simulating different search patterns using external CSV files in JMeter/Gatling
 -	Built test scenarios using plugins such as Throughput Shaping Timer
 -	Implemented parameterization, conditions, and functions in test scripts
