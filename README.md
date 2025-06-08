@@ -72,4 +72,6 @@ I'm **Tatiane**, a passionate Quality Assurance professional with over **11 year
 ---
 
 > _"Quality is never an accident. It is always the result of intelligent effort." — John Ruskin_
+>
+> [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=almeidas-tatiane.almeidas-tatiane&style=flat-square&color=2ea44f)](https://github.com/almeidas-tatiane)
 
