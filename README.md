@@ -1,13 +1,62 @@
-### Hi there, I'm Tatiane da Silva Almeida
+# 👩‍💻 Tatiane da Silva Almeida
 
-I'm Test Analyst passionate about Quality Assurance
+**Test Analyst | Performance Test Engineer | QA Enthusiast | Love Learner**
 
-- 🔭 I’m currently looking for a new opportunity as Test Performance Engineer. I've worked with technologies like: HP ALM, CA Agile Central, SoapUI, Postman, SQL; Unix; JMeter; Gatling; AWS, ElasticSearch, Grafana and Dynatrace.
-- I have 11 years of experience working with american customers in a remote model work.
-- I have 2 years of experience in Performance Testing to financial industry in a remote model work.
-- I have the following certifications: ISTQB CT-PT(Performance Tester); AWS Certified Cloud Practitioner; CTFL; CTAL-TM; CTAL-TA; TMAP Next;ITIL.
-- 🌱 I’m currently learning K6 and willing to apply these knwoledges very soon in a new project.
-- 👯 I’m looking to collaborate on Performance Testing with JMeter; K6; Gatling associate with APM tools as Dynatrace; New Relic etc.
-- 📫 How to reach me: https://www.linkedin.com/in/tatianealmeida/
-- ⚡ Fun fact: In my free time I like to watch movies at Netflix, travel and study new Software Testing technologies, I started my studies in this area in 2009 at Iterasys and every year I find a way to continue my improvement with new trainings and new test certifications.
+📍 Campinas, Brazil | 💬 English & Portuguese | 📫 [LinkedIn](https://www.linkedin.com/in/tatianealmeida)
+
+---
+
+Hi there! I'm **Tatiane**, a passionate QA professional with **11+ years** of experience working with American clients in fully remote environments. I specialize in **Performance Testing** and am constantly evolving my skills to keep up with modern tools and best practices.
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently seeking new opportunities as a **Performance Test Engineer**
+- 💻 Tools & Tech:  
+  `JMeter`, `JMeter DSL`, `Gatling`, `Dynatrace`, `Grafana`, `K6`, `ElasticSearch`, `Postman`, `SoapUI`, `AWS`, `SQL`, `GitHub Actions`
+- 🏦 2+ years focused on **performance testing for the financial industry**
+- 🌱 Currently learning **K6** and planning to apply it in real-world projects
+- 👯 Open to collaborations in performance + observability (APM tools like Dynatrace, New Relic)
+- 🧪 Devoted to a **performance-first** and **DevOps-integrated** quality culture
+
+---
+
+## 🧾 Resume & Portfolio
+
+- 📄 [Check out my resume here (resume.md)](https://github.com/almeidas-tatiane/almeidas-tatiane/blob/main/resume.md)
+- 🧪 [Explore my performance test projects](https://github.com/almeidas-tatiane?tab=repositories)
+
+---
+
+## 🏅 Certifications
+
+- ✅ ISTQB CT-PT (Performance Tester)  
+- ✅ AWS Certified Cloud Practitioner  
+- ✅ ISTQB CTFL / CTAL-TM / CTAL-TA  
+- ✅ EXIN TMAP Next  
+- ✅ EXIN ITIL Foundation  
+
+---
+
+## 🎯 Fun Facts
+
+- 🎥 Love watching movies on Netflix  
+- ✈️ Passionate about travel  
+- 📚 Always studying — started in 2009 at Iterasys and never stopped!  
+- 🧠 I pursue new certifications and trainings every year to stay sharp  
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/tatianealmeida)  
+- [GitHub](https://github.com/almeidas-tatiane)  
+- [Medium](https://medium.com/@almeidas.tatiane)  
+- [YouTube](https://youtube.com/watch?v=BhCYA7fUE4Y)
+
+---
+
+> 💡 *“Quality is never an accident. It is always the result of intelligent effort.”* — John Ruskin
+
 
