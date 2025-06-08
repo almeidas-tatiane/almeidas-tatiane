@@ -20,7 +20,7 @@ Hi there! I'm **Tatiane**, a passionate QA professional with **11+ years** of ex
 
 - 🔭 Currently seeking new opportunities as a **Performance Test Engineer**
 - 💻 Tools & Tech:  
-  `JMeter`, `JMeter DSL`, `Gatling`, `Dynatrace`, `Grafana`, `K6`, `ElasticSearch`, `Postman`, `SoapUI`, `AWS`, `SQL`, `GitHub Actions`
+  `JMeter`, `JMeter DSL`, `Gatling`, `Dynatrace`, `Grafana`, `K6`, `ElasticSearch`, `Postman`, `SoapUI`, `AWS`, `SQL`, `GitHub Actions`, `Jira`, `Confluence`, `Git`, `Jenkins`
 - 🏦 2+ years focused on **performance testing for the financial industry**
 - 🌱 Currently learning **K6** and planning to apply it in real-world projects
 - 👯 Open to collaborations in performance + observability (APM tools like Dynatrace, New Relic)
