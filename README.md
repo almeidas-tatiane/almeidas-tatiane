@@ -30,13 +30,14 @@ Hi there! I'm **Tatiane**, a passionate QA professional with **11+ years** of ex
 
 ## 🏅 Certifications
 
-- ✅ ISTQB CTFL
-- ✅ ISTQB CTAL-TA
-- ✅ ISTQB CTAL-TM  
-- ✅ ISTQB CT-PT (Performance Tester)  
-- ✅ AWS Certified Cloud Practitioner  
-- ✅ EXIN TMAP Next  
-- ✅ EXIN ITIL Foundation  
+![ISTQB CTFL](https://img.shields.io/badge/ISTQB-CTFL-blue?style=flat-square&logo=bookstack&logoColor=white)
+![ISTQB CTAL-TA](https://img.shields.io/badge/ISTQB-CTAL--TA-blue?style=flat-square&logo=bookstack&logoColor=white)
+![ISTQB CTAL-TM](https://img.shields.io/badge/ISTQB-CTAL--TM-blue?style=flat-square&logo=bookstack&logoColor=white)
+![ISTQB CT-PT](https://img.shields.io/badge/ISTQB-Performance%20Tester-blue?style=flat-square&logo=bookstack&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![EXIN TMAP Next](https://img.shields.io/badge/EXIN-TMAP%20Next-005BA1?style=flat-square&logo=openbadges&logoColor=white)
+![EXIN ITIL Foundation](https://img.shields.io/badge/EXIN-ITIL%20Foundation-003A9B?style=flat-square&logo=openbadges&logoColor=white)
+
 
 ---
 ## 🛠️ Technologies & Tools
