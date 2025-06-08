@@ -1,58 +1,40 @@
 # 👩‍💻 Tatiane da Silva Almeida
 
-**Test Analyst | Performance Test Engineer | QA Enthusiast | Love Learner**
+**Test Analyst | Performance Test Engineer | QA Enthusiast | Lifelong Learner**
 
-📍 Campinas, Brazil  
-💬 English & Portuguese  
-📄 [Resume](https://github.com/almeidas-tatiane/almeidas-tatiane/blob/master/resume.md) &nbsp;&nbsp;|&nbsp;&nbsp;  
-🧪 [Explore my performance test projects](https://github.com/almeidas-tatiane?tab=repositories) &nbsp;&nbsp;|&nbsp;&nbsp;  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatianealmeida)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@almeidas.tatiane)  
+📍 Campinas, Brazil &nbsp;&nbsp;|&nbsp;&nbsp;  
+💬 Fluent in English & Portuguese &nbsp;&nbsp;|&nbsp;&nbsp;  
+📄 [Resume](https://github.com/almeidas-tatiane/almeidas-tatiane/blob/master/resume.md)  
+🔬 [Explore My Performance Projects](https://github.com/almeidas-tatiane?tab=repositories)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatianealmeida)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@almeidas.tatiane)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/watch?v=BhCYA7fUE4Y)
-
----
-
-Hi there! I'm **Tatiane**, a passionate QA professional with **11+ years** of experience working with American clients in fully remote environments. I specialize in **Performance Testing** and am constantly evolving my skills to keep up with modern tools and best practices.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently seeking new opportunities as a **Performance Test Engineer**
-- 💻 Tools & Tech:  
-  `JMeter`, `JMeter DSL`, `Gatling`, `Dynatrace`, `Grafana`, `K6`, `ElasticSearch`, `Postman`, `SoapUI`, `AWS`, `SQL`, `GitHub Actions`, `Jira`, `Confluence`, `Git`, `Jenkins`
-- 🏦 2+ years focused on **performance testing for the financial industry**
-- 🌱 Currently learning **K6** and planning to apply it in real-world projects
-- 👯 Open to collaborations in performance + observability (APM tools like Dynatrace, New Relic)
-- 🧪 Devoted to a **performance-first** and **quality culture** 
+I'm **Tatiane**, a passionate Quality Assurance professional with over **11 years of experience** in software testing, including **2+ years in Performance Testing** for the financial and telecom industries. I've worked with distributed global teams in **remote environments**, supporting American clients with tools like JMeter, Gatling, Dynatrace, and AWS.
+
+🔭 **Currently open to new challenges** as a Performance Test Engineer.  
+🌱 Learning K6 and exploring CI/CD integrations for performance pipelines.  
+📈 Passionate about observability, root cause analysis, and performance-first culture.
 
 ---
 
-## 🏅 Certifications
+## 🧪 Tools & Technologies
 
-![ISTQB CTFL](https://img.shields.io/badge/ISTQB-CTFL-blue?style=flat-square&logo=bookstack&logoColor=white)
-![ISTQB CTAL-TA](https://img.shields.io/badge/ISTQB-CTAL--TA-blue?style=flat-square&logo=bookstack&logoColor=white)
-![ISTQB CTAL-TM](https://img.shields.io/badge/ISTQB-CTAL--TM-blue?style=flat-square&logo=bookstack&logoColor=white)
-![ISTQB CT-PT](https://img.shields.io/badge/ISTQB-Performance%20Tester-blue?style=flat-square&logo=bookstack&logoColor=white)
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![EXIN TMAP Next](https://img.shields.io/badge/EXIN-TMAP%20Next-005BA1?style=flat-square&logo=openbadges&logoColor=white)
-![EXIN ITIL Foundation](https://img.shields.io/badge/EXIN-ITIL%20Foundation-003A9B?style=flat-square&logo=openbadges&logoColor=white)
-
-
----
-## 🛠️ Technologies & Tools
-
-![JMeter](https://img.shields.io/badge/JMeter-DD0031?style=flat-square&logo=apachejmeter&logoColor=white)
-![JMeter DSL](https://img.shields.io/badge/JMeter%20DSL-FF8C00?style=flat-square&logo=code&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+![JMeter DSL](https://img.shields.io/badge/JMeter%20DSL-blue?style=flat-square)
 ![Gatling](https://img.shields.io/badge/Gatling-FF6600?style=flat-square&logo=gatling&logoColor=white)
+![K6](https://img.shields.io/badge/K6-7D64FF?style=flat-square&logo=k6&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![K6](https://img.shields.io/badge/K6-7D64FF?style=flat-square&logo=k6&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=flat-square&logo=soapui&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-6CB33E?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
@@ -61,13 +43,33 @@ Hi there! I'm **Tatiane**, a passionate QA professional with **11+ years** of ex
 
 ---
 
-## 🎯 Fun Facts
+## 🏅 Certifications
 
-- 🎥 Love watching movies on Netflix  
-- ✈️ Passionate about travel and concert shows
-- 📚 Always studying — started in 2009 at Iterasys and never stopped!  
-- 🧠 I pursue new certifications and trainings every year to stay sharp  
+![CTFL](https://img.shields.io/badge/ISTQB%20CTFL-red?style=flat-square)
+![CTAL-TA](https://img.shields.io/badge/ISTQB%20CTAL--TA-red?style=flat-square)
+![CTAL-TM](https://img.shields.io/badge/ISTQB%20CTAL--TM-red?style=flat-square)
+![CT-PT](https://img.shields.io/badge/ISTQB%20CT--PT-red?style=flat-square)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![TMAP](https://img.shields.io/badge/EXIN%20TMAP%20Next-blue?style=flat-square)
+![ITIL](https://img.shields.io/badge/EXIN%20ITIL%20Foundation-lightgrey?style=flat-square)
 
 ---
 
-> 💡 *“Quality is never an accident. It is always the result of intelligent effort.”* — John Ruskin
+## 📊 GitHub Stats
+
+![Tatiane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=almeidas-tatiane&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almeidas-tatiane&layout=compact&theme=tokyonight)
+
+---
+
+## 🧠 Fun Facts
+
+- 🎥 I love watching movies and tech documentaries  
+- ✈️ Passionate about travel, concerts, and discovering new QA tools  
+- 🎓 I started my testing journey in 2009 and continue to train yearly  
+- 📚 I teach, mentor, and enjoy spreading testing culture everywhere  
+
+---
+
+> _"Quality is never an accident. It is always the result of intelligent effort." — John Ruskin_
+
