@@ -39,6 +39,17 @@ Hi there! I'm **Tatiane**, a passionate QA professional with **11+ years** of ex
 - ✅ EXIN ITIL Foundation  
 
 ---
+## 🛠️ Technologies & Tools
+
+![JMeter](https://img.shields.io/badge/JMeter-%23ED8B00.svg?style=flat-square&logo=apachejmeter&logoColor=white)
+![Gatling](https://img.shields.io/badge/Gatling-%23244F9E.svg?style=flat-square&logo=gatling&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-%23F75B00.svg?style=flat-square&logo=dynatrace&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazonaws&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
+![K6](https://img.shields.io/badge/K6-%23007ACC.svg?style=flat-square&logo=k6&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-%234473A8.svg?style=flat-square&logo=elastic&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
+---
 
 ## 🎯 Fun Facts
 
