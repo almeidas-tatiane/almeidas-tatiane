@@ -41,14 +41,23 @@ Hi there! I'm **Tatiane**, a passionate QA professional with **11+ years** of ex
 ---
 ## 🛠️ Technologies & Tools
 
-![JMeter](https://img.shields.io/badge/JMeter-%23ED8B00.svg?style=flat-square&logo=apachejmeter&logoColor=white)
-![Gatling](https://img.shields.io/badge/Gatling-%23244F9E.svg?style=flat-square&logo=gatling&logoColor=white)
-![Dynatrace](https://img.shields.io/badge/Dynatrace-%23F75B00.svg?style=flat-square&logo=dynatrace&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazonaws&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
-![K6](https://img.shields.io/badge/K6-%23007ACC.svg?style=flat-square&logo=k6&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-%234473A8.svg?style=flat-square&logo=elastic&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-DD0031?style=flat-square&logo=apachejmeter&logoColor=white)
+![JMeter DSL](https://img.shields.io/badge/JMeter%20DSL-FF8C00?style=flat-square&logo=code&logoColor=white)
+![Gatling](https://img.shields.io/badge/Gatling-FF6600?style=flat-square&logo=gatling&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![K6](https://img.shields.io/badge/K6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=flat-square&logo=soapui&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
 ---
 
 ## 🎯 Fun Facts
