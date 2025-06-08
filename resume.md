@@ -35,22 +35,38 @@
 
 ### **Performance Test Engineer**  
 **Agi** – Remote | *Oct 2021 – Jun 2023*  
-- Designed and implemented performance testing processes.
-- Implemented end to end and API scripts.
-- Led test planning and participated in system architecture discussions.  
-- Introduced and configured Dynatrace for APM monitoring.  
-- Developed load, stress, and spike tests using JMeter and Gatling.  
-- Executed performance tests in AWS and analyzed logs via Elasticsearch.  
-- Created detailed reports highlighting key performance metrics and bottlenecks.  
-- Fostered a performance-driven mindset across engineering teams.  
+-	Created and implemented a performance testing process
+-	Created performance plans and contributed to architecture discussions
+-	Suggested and supported the adoption of Dynatrace as an APM tool
+-	Conducted meetings with cross-functional teams to understand project scope and acceptance criteria
+-	Selected performance scenarios based on realistic user behaviors in web/API applications
+-	Recorded scenarios using Blazemeter extension or Fiddler
+-	Created various types of performance tests in JMeter, including load, stress, and spike tests
+-	Developed scripts simulating different search patterns using external CSV files in JMeter/Gatling
+-	Built test scenarios using plugins such as Throughput Shaping Timer
+-	Implemented parameterization, conditions, and functions in test scripts
+-	Executed performance tests in AWS Cloud, managing scalability and resources
+-	Monitored CPU, memory, and filesystem usage with Dynatrace during tests
+-	Used Elasticsearch to analyze logs and detect bugs during execution
+-	Maintained code versioning with Git
+-	Generated performance metrics and reports highlighting system bottlenecks
+-	Advocated for performance testing best practices and fostered a performance-focused culture within the team
 
 ---
 
 ### **Performance Test Analyst**  
 **IBM** – Remote | *Apr 2021 – Sep 2021*  
-- Designed performance scenarios based on real-world usage.  
-- Built parameterized tests with JMeter and BlazeMeter.  
-- Monitored system usage and flagged architectural limitations on OpenShift.  
+-	Created performance plans and supported APM tool integration
+-	Identified realistic test scenarios in a web application based on user behavior
+-	Recorded scenarios with Blazemeter extension
+-	Built load, stress, and spike tests in JMeter
+-	Developed search simulations using external CSV data
+-	Created test flows using Throughput Shaping Timer
+-	Implemented parameterized scripts
+-	Monitored resource usage on RedHat Cloud OpenShift
+-	Analyzed execution logs to identify bugs and issues
+-	Reported test results and highlighted performance bottlenecks
+-	Advocated for performance testing practices within the team
 
 ---
 
@@ -58,9 +74,16 @@
 **IBM** – Remote | *Jan 2010 – Mar 2021*  
 - Sole QA for a US telecom client’s provisioning systems.
 - Interview and built a global team (Philiphines, USA and Brazil). 
-- Created and executed test cases and managed defects lifecycle.  
-- Automated regression tests and validated APIs (Postman, SOAP UI, Groovy).  
-- Supported T-Mobile/Sprint merger with provisioning impact analysis.
+-	Supported multiple provisioning applications
+-	Conducted interviews and selected additional team members
+-	Collaborated with international teams (Philippines, USA) as the sole resource in Brazil
+-	Authored and executed test cases, managed defect lifecycle
+-	Helped establish automation strategies for regression testing
+-	Used SoapUI with Groovy for data-driven API testing; also worked with Postman
+-	Contributed to Sprint/T-Mobile system integration in 2020
+-	Identified gaps and minimized provisioning impact during the merge
+-	Acted as Production Support Specialist, analyzing store issues through Data Warehouse queries
+-	Improved SQL and Unix skills during this time
 
 ### Production Support Specialist  
 **IBM** – Remote  | *Mar 2009 – Sep 2009*  
