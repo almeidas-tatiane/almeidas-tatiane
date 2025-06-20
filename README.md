@@ -5,7 +5,6 @@
 📍 Campinas, Brazil &nbsp;&nbsp;|&nbsp;&nbsp;  
 💬 Fluent in English & Portuguese &nbsp;&nbsp;|&nbsp;&nbsp;  
 📄 [Resume](https://github.com/almeidas-tatiane/almeidas-tatiane/blob/master/resume.md)  
-🔬 [Explore My Performance Projects](https://github.com/almeidas-tatiane?tab=repositories)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatianealmeida)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@almeidas.tatiane)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/watch?v=BhCYA7fUE4Y)
