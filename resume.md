@@ -23,7 +23,7 @@
 
 - **Performance Testing**: JMeter, Gatling, JMeter DSL, BlazeMeter  
 - **Monitoring & Observability**: Dynatrace, Grafana, New Relic, Fiddler, DataDog  
-- **Cloud & DevOps**: AWS, OpenShift, GitHub Actions, Jenkins  
+- **Cloud & DevOps**: AWS, OpenShift, GitHub Actions, Jenkins, GCP  
 - **Automation & API Testing**: Postman, SOAP UI, Groovy  
 - **Databases & Logs**: SQL, ElasticSearch  
 - **Version Control & Management**: Git, Jira, Testlink, HP ALM , Confluence 
