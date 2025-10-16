@@ -22,7 +22,7 @@
 ## 🛠️ Core Competencies
 
 - **Performance Testing**: JMeter, Gatling, JMeter DSL, BlazeMeter  
-- **Monitoring & Observability**: Dynatrace, Grafana, New Relic, Fiddler  
+- **Monitoring & Observability**: Dynatrace, Grafana, New Relic, Fiddler, DataDog  
 - **Cloud & DevOps**: AWS, OpenShift, GitHub Actions, Jenkins  
 - **Automation & API Testing**: Postman, SOAP UI, Groovy  
 - **Databases & Logs**: SQL, ElasticSearch  
@@ -32,6 +32,12 @@
 ---
 
 ## 💼 Professional Experience
+
+### **Performance Test Engineer**
+**Prime Up – Customer: Votorantim Bank** - Remote | *Oct 2025 – actual* 
+- Implementation of the performance testing process improvement
+- Squads’ support after 6pm – helped them to execute their JMeter scripts at Jenkins  pipeline, analyzing and finding bottlenecks using Datadog and GCP
+
 
 ### **Performance Test Engineer**  
 **Agi** – Remote | *Oct 2021 – Jun 2023*  
