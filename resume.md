@@ -35,8 +35,9 @@
 
 ### **Performance Test Engineer**
 **Prime Up – Customer: Votorantim Bank** - Remote | *Oct 2025 – actual* 
-- Implementation of the performance testing process improvement
-- Squads’ support after 6pm – helped them to execute their JMeter scripts at Jenkins  pipeline, analyzing and finding bottlenecks using Datadog and GCP
+- Led improvements in the performance testing process across squads
+- Supported multiple squads by guiding them in writing performance test plans, developing JMeter scripts, executing them through Jenkins pipelines, and analyzing results
+- Identified and helped resolve performance bottlenecks using Datadog and Google Cloud Platform (GCP)
 
 
 ### **Performance Test Engineer**  
