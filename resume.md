@@ -15,7 +15,7 @@
 
 ## 🧩 Professional Summary
 
-**Performance Test Engineer** with **10+ years** of experience in software quality assurance, including **2+ years specializing in performance testing** with tools like **JMeter**, **Gatling**, and **Dynatrace**. Skilled in test planning, scripting, monitoring, reporting, and performance analysis in **Agile** and **cloud-native** environments. Holds certifications in **ISTQB (CTFL, CTAL, Performance)** and **AWS Cloud Practitioner**. Strong advocate for a **performance-first culture** and **continuous delivery mindset**.
+**Performance Test Engineer** with **10+ years** of experience in software quality assurance, including **2+ years specializing in performance testing** with tools like **JMeter**, **Gatling**, **DataDog** and **Dynatrace**. Skilled in test planning, scripting, monitoring, reporting, and performance analysis in **Agile** and **cloud-native** environments. Holds certifications in **ISTQB (CTFL, CTAL, Performance)** and **AWS Cloud Practitioner**. Strong advocate for a **performance-first culture** and **continuous delivery mindset**.
 
 ---
 
@@ -38,6 +38,12 @@
 - Led improvements in the performance testing process across squads
 - Supported multiple squads by guiding them in writing performance test plans, developing JMeter scripts, executing them through Jenkins pipelines, and analyzing results
 - Identified and helped resolve performance bottlenecks using Datadog and Google Cloud Platform (GCP)
+- Created an Advanced Performance Testing Training with explanatory videos, giving autonomy to the teams.
+- Created a Call Answering Feedback Form
+- Reviewed and refined the Performance Test Area Confluence documentation
+- Created an onboarding for new members using a structured, reusable process, with examples and video explanations that ensure the knowledge transfer independently and quickly.
+- Led the update of the Maturity Model, adding non-functional performance and security criteria.
+
 
 
 ### **Performance Test Engineer**  
