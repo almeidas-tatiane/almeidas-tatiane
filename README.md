@@ -13,12 +13,19 @@
 
 ## 🚀 About Me
 
-I'm **Tatiane**, a passionate Quality Assurance professional with over **11 years of experience** in software testing, including **2+ years in Performance Testing** for the financial and telecom industries. I've worked with distributed global teams in **remote environments**, supporting American clients with tools like JMeter, Gatling, Dynatrace, and AWS.
+I'm **Tatiane**, a passionate Quality Assurance professional with over **11 years of experience** in software testing, including **2+ years in Performance Testing** for the financial and telecom industries. I've worked with distributed global teams in **remote environments**, supporting American clients with tools like JMeter, Gatling, Dynatrace, DataDog, GCP and AWS.
 
-🔭 **Currently open to new challenges** as a Performance Test Engineer.  
-🌱 Learning K6 and exploring CI/CD integrations for performance pipelines.  
+🔭 Currently open to opportunities in **Performance Testing and Test Automation (Cypress)**  
+🌱 Expanding my skills in **functional test automation and CI/CD pipelines**  
 📈 Passionate about quality, observability, root cause analysis, and performance-first culture.
+---
+## 🤖 Test Automation
 
+- End-to-end testing with **Cypress**
+- UI validation and user flow coverage
+- Data-driven testing using fixtures
+- Custom commands for reusable test logic
+- Basic experience with CI/CD integration (in progress)
 ---
 
 ## 🧪 Tools & Technologies
