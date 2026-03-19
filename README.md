@@ -20,15 +20,6 @@ I'm **Tatiane**, a passionate Quality Assurance professional with over **11 year
 📈 Passionate about quality, observability, root cause analysis, and performance-first culture.
 
 ---
-## 🤖 Test Automation
-
-- End-to-end testing with **Cypress**
-- UI validation and user flow coverage
-- Data-driven testing using fixtures
-- Custom commands for reusable test logic
-- Basic experience with CI/CD integration (in progress)
----
-
 ## 🧪 Tools & Technologies
 
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
