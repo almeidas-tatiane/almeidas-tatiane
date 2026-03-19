@@ -18,6 +18,7 @@ I'm **Tatiane**, a passionate Quality Assurance professional with over **11 year
 🔭 Currently open to opportunities in **Performance Testing and Test Automation (Cypress)**  
 🌱 Expanding my skills in **functional test automation and CI/CD pipelines**  
 📈 Passionate about quality, observability, root cause analysis, and performance-first culture.
+
 ---
 ## 🤖 Test Automation
 
