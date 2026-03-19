@@ -15,7 +15,7 @@
 
 ## 🧩 Professional Summary
 
-**Performance Test Engineer** with **10+ years** of experience in software quality assurance, including **2+ years specializing in performance testing** with tools like **JMeter**, **Gatling**, **DataDog** and **Dynatrace**. Skilled in test planning, scripting, monitoring, reporting, and performance analysis in **Agile** and **cloud-native** environments. Holds certifications in **ISTQB (CTFL, CTAL, Performance)** and **AWS Cloud Practitioner**. Strong advocate for a **performance-first culture** and **continuous delivery mindset**.
+**Performance Test Engineer** with **10+ years** of experience in software quality assurance, including **2+ years specializing in performance testing** with tools like **JMeter**, **Gatling**, **DataDog** and **Dynatrace**. Also hands-on experience with end-to-end test automation using **Cypress**. Skilled in test planning, scripting, monitoring, reporting, and performance analysis in **Agile** and **cloud-native** environments. Holds certifications in **ISTQB (CTFL, CTAL, Performance)** and **AWS Cloud Practitioner**. Strong advocate for a **performance-first culture** and **continuous delivery mindset**.
 
 ---
 
@@ -24,7 +24,7 @@
 - **Performance Testing**: JMeter, Gatling, JMeter DSL, BlazeMeter  
 - **Monitoring & Observability**: Dynatrace, Grafana, New Relic, Fiddler, DataDog  
 - **Cloud & DevOps**: AWS, OpenShift, GitHub Actions, Jenkins, GCP  
-- **Automation & API Testing**: Postman, SOAP UI, Groovy  
+- **Automation & API Testing**: Cypress (E2E), Postman, SOAP UI, Groovy  
 - **Databases & Logs**: SQL, ElasticSearch  
 - **Version Control & Management**: Git, Jira, Testlink, HP ALM , Confluence 
 - **Operating Systems**: Windows, Linux, Unix  
