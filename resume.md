@@ -1,5 +1,5 @@
 # Tatiane da Silva Almeida
-**Performance Test Engineer**
+**QA Engineer | Performance Testing | Test Automation**
 
 📍 Campinas, SP – Brazil  
 📞 +55 (19) 99387-8228  
@@ -24,10 +24,11 @@
 - **Performance Testing**: JMeter, Gatling, JMeter DSL, BlazeMeter  
 - **Monitoring & Observability**: Dynatrace, Grafana, New Relic, Fiddler, DataDog  
 - **Cloud & DevOps**: AWS, OpenShift, GitHub Actions, Jenkins, GCP  
-- **Automation & API Testing**: Cypress (E2E), Postman, SOAP UI, Groovy  
+- **Automation & API Testing**: Cypress (E2E), Postman, SOAP UI  
 - **Databases & Logs**: SQL, ElasticSearch  
 - **Version Control & Management**: Git, Jira, Testlink, HP ALM , Confluence 
-- **Operating Systems**: Windows, Linux, Unix  
+- **Operating Systems**: Windows, Linux, Unix
+- **Programming Languages**: JavaScript, Groovy
 
 ---
 
