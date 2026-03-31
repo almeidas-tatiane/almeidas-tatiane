@@ -51,14 +51,14 @@ I'm **Tatiane**, a passionate Quality Assurance professional with over **11 year
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![TMAP](https://img.shields.io/badge/EXIN%20TMAP%20Next-blue?style=flat-square)
 ![ITIL](https://img.shields.io/badge/EXIN%20ITIL%20Foundation-lightgrey?style=flat-square)
-
+<!--
 ---
 
 ## 📊 GitHub Stats
 
 ![Tatiane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=almeidas-tatiane&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almeidas-tatiane&layout=compact&theme=tokyonight)
-
+-->
 ---
 
 ## 🧠 Fun Facts
