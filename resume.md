@@ -35,7 +35,7 @@
 ## 💼 Professional Experience
 
 ### **Performance Test Engineer**
-**Prime Up – Customer: Votorantim Bank** - Remote | *Oct 2025 – Marc 2026* 
+**Prime Up – Customer: Votorantim Bank** - Remote | *Oct 2025 – Apr 2026* 
 - Led improvements in the performance testing process across squads
 - Supported multiple squads by guiding them in writing performance test plans, developing JMeter scripts, executing them through Jenkins pipelines, and analyzing results
 - Identified and helped resolve performance bottlenecks using Datadog and Google Cloud Platform (GCP)
